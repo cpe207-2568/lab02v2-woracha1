@@ -1,0 +1,91 @@
+  .center-text{
+    text-align: center;
+    color: salmon;
+  }
+
+  .ex{
+    border: solid salmon;
+    background-color: #36454F;
+    width: 500px;
+    margin-left: 500px;
+    padding: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .ex > h3 {
+    color: salmon;
+  }
+
+  .ex > p {
+    color: salmon;
+  }
+
+  .homepic{
+    margin-left: 720px;
+    width: 25%;
+  }
+
+  .expic{
+    border: solid salmon;
+    margin-left: 720px;
+    height: 380px;
+    width: 500px;
+    margin-bottom: 10px;
+
+  }
+
+  .skill{
+    border: solid salmon;
+    background-color: #36454F;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 1rem;
+    margin-bottom: 10px;
+  }
+
+  .skill > h3 {
+    color:salmon;
+  }
+
+  .skill > p {
+    color: salmon;
+  }
+
+  .fb-button{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(24, 119, 242);
+    border-radius: 100px;
+    border: none;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    cursor: pointer;
+    margin-left: 725px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.ig-button{
+    font-weight: bold;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(225 48 108);
+    border-radius: 100px;
+    border: none;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 100px;
+    -moz-border-radius: 100px;
+    -ms-border-radius: 100px;
+    -o-border-radius: 100px;
+    cursor: pointer;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
