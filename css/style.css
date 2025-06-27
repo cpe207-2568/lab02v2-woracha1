@@ -1,6 +1,15 @@
+  @import url('https://fonts.googleapis.com/css2?family=Libertinus+Math&family=Parastoo&display=swap');
+  
   .center-text{
     text-align: center;
-    color: salmon;
+    color: black ;
+    font-family: "Parastoo", serif;
+  }
+
+  .center-text > a {
+    color: black;
+    text-decoration: none;
+    font-family: "Parastoo", serif;
   }
 
   .ex{
@@ -52,9 +61,15 @@
     color: salmon;
   }
 
+  .skill > a {
+    text-decoration: none;
+    color: salmon;
+  }
+
   .fb-button{
+    font-family: "Parastoo", serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
     color: white;
     background-color: rgb(24, 119, 242);
     border-radius: 100px;
@@ -67,13 +82,14 @@
     -o-border-radius: 100px;
     cursor: pointer;
     margin-left: 725px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 100px;
+    margin-bottom: 40px;
 }
 
 .ig-button{
+  font-family: "Parastoo", serif;
     font-weight: bold;
-    font-size: 18px;
+    font-size: 25px;
     color: white;
     background-color: rgb(225 48 108);
     border-radius: 100px;
@@ -86,6 +102,7 @@
     -o-border-radius: 100px;
     cursor: pointer;
     margin-left: 50px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 100px;
+    margin-bottom: 40px;
 }
+
